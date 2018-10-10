@@ -6,4 +6,4 @@ Link : https://archive.ics.uci.edu/ml/machine-learning-databases/20newsgroups-ml
 For larger Dataset : 20_newsgroups.tar.gz
 For smaller Dataset : mini_newsgroups.tar.gz
 
-# if .ipynb file doesn't load, try https://nbviewer.jupyter.org/
+ if .ipynb file doesn't load, try https://nbviewer.jupyter.org/
